@@ -1,0 +1,29 @@
+[33mcommit 47305d62a56ea61abafc32e7856a71147c91778d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JaklaAhosi <thawatchai.bo@kkumail.com>
+Date:   Wed Dec 6 14:50:13 2023 +0700
+
+    Create Fourthfile.css and add the semester to Starfile.txt
+
+[33mcommit abd9e3805926c95d6b168993c0b5fe27cc8a4240[m
+Author: JaklaAhosi <thawatchai.bo@kkumail.com>
+Date:   Wed Dec 6 14:42:25 2023 +0700
+
+    Create Thirdfile.log which is a git ignore file
+
+[33mcommit d073d02659d22ac9f8b3c2216ccdcbd704072617[m
+Author: JaklaAhosi <thawatchai.bo@kkumail.com>
+Date:   Wed Dec 6 14:38:15 2023 +0700
+
+    Create Secondfile.html and add note to Startfile.txt
+
+[33mcommit 90c49e8de91f09e714a47f64fe08ad6b1538824b[m
+Author: JaklaAhosi <thawatchai.bo@kkumail.com>
+Date:   Wed Dec 6 14:31:23 2023 +0700
+
+    Add persornal quote to Starfile.txt
+
+[33mcommit 4745e314f436dd98c519f1a222e60ba8accdc7f6[m
+Author: JaklaAhosi <thawatchai.bo@kkumail.com>
+Date:   Wed Dec 6 14:28:48 2023 +0700
+
+    Create Startfile.txt with author's name.
